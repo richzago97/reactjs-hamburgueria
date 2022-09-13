@@ -1,5 +1,3 @@
-# react-entrega-s1-hamburgueria-da-kenzie-richzago97
-react-entrega-s1-hamburgueria-da-kenzie-richzago97 created by GitHub Classroom
 
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
